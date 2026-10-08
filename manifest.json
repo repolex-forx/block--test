@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "block",
+  "repo": "test",
+  "versions": [
+    {
+      "commit": "5992b7a256dfe4d372f5256b0faaeaf789b95f79",
+      "parsed_at": "2026-10-08T11:10:26.768181+00:00",
+      "tag": "main",
+      "filetree": "filetree/5992b7a256dfe4d372f5256b0faaeaf789b95f79.nq.gz",
+      "blobs": [
+        "blob/862ee3c28647e7a58801a75236855c269c1448ae.nq.gz",
+        "blob/0ba9db25329d0b336e39ca8cde8470c5b7bc45eb.nq.gz",
+        "blob/9582fc588754f78d9875691a3bd5e674295436b3.nq.gz",
+        "blob/6bccf43368fd7c96d9c659562a5142b8b8cb98a1.nq.gz",
+        "blob/25f0bc5ed80683a81f46e6bfd1cf8ea0b56c6807.nq.gz",
+        "blob/436d87fccfcf5fbf1b177e597388ad73f1f2acc0.nq.gz",
+        "blob/2f67332c6b6fdfc250060c4378dd1b694c73c7dc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
